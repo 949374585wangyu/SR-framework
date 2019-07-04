@@ -7,4 +7,5 @@ This is a implement of DBPN.   <br>
 * Pytorch 1.1.0
 
 ### Getting started
-Run: `python start.py`. 
+Train: `python main.py`. 
+Test: `python eval.py`.
