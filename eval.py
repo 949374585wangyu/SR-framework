@@ -23,7 +23,7 @@ import scipy.io as sio
 import time
 import cv2
 
-# Training settings
+# Testing settings
 parser = argparse.ArgumentParser(description='PyTorch Super Res Example')
 parser.add_argument('--upscale_factor', type=int, default=4, help="super resolution upscale factor")
 parser.add_argument('--testBatchSize', type=int, default=1, help='testing batch size')
